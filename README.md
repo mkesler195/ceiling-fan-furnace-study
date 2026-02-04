@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents an ongoing, non‑invasive study of **winter comfort, air circulation, and furnace runtime** in a residential open‑plan living space with a cathedral ceiling. The project explores how **ceiling fan mode (OFF, CCW, CW)** affects perceived comfort and air distribution *without materially changing measured room temperature*, and how those effects relate to **actual furnace operation**.
+This repository documents an ongoing, non‑invasive study of **winter comfort, air circulation, and furnace runtime** in a residential open‑plan living space with a cathedral ceiling. The project explores how **ceiling fan mode (OFF, Counter Clockwise "CCW", or Clockwise "CW")** affects perceived comfort and air distribution *without materially changing measured room temperature*, and how those effects relate to **actual furnace operation**.
 
 A key design principle is **separation of concerns**:
 
