@@ -1,5 +1,21 @@
 # Ceiling Fan & Furnace Study
 
+
+## Why this project exists
+
+This project explores the real-world interaction between ceiling fan usage,
+furnace runtime, and indoor temperature dynamics in a lived-in home environment.
+
+Rather than relying solely on theoretical models, the goal is to collect
+and analyze actual sensor data to better understand:
+- how often and how long the furnace runs under different conditions
+- whether ceiling fan operation meaningfully affects runtime or comfort
+- how small environmental changes show up in logged data over time
+
+The project emphasizes hands-on measurement, careful documentation,
+and iterative analysis to surface practical insights rather than
+perfect or universal conclusions.
+
 ## Overview
 
 This repository documents an ongoing, non‑invasive study of **winter comfort, air circulation, and furnace runtime** in a residential open‑plan living space with a cathedral ceiling. The project explores how **ceiling fan mode (OFF, Counter Clockwise "CCW", or Clockwise "CW")** affects perceived comfort and air distribution *without materially changing measured room temperature*, and how those effects relate to **actual furnace operation**.
