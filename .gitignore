@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Arduino build artifacts (usually outside repo, but safe)
+*.elf
+*.hex
+
+# Editor noise
+.vscode/
